@@ -141,6 +141,8 @@ MonoBehaviour:
   deathSoundVolume: 1
   shootSound: {fileID: 8300000, guid: eaffe137eee09044d85e563c6697e0fd, type: 3}
   shootSoundVolume: 0.1
+  levelPrefab: {fileID: 6049165802055535641, guid: 280a1b95f6ef5b749b397e140227ecb9,
+    type: 3}
   laserPrefab: {fileID: 8633666389994245982, guid: fc457de48ea50f2408cf6aaef5114488,
     type: 3}
   projectileSpeed: 20
